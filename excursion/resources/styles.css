@@ -1,7 +1,8 @@
-* {
+body {
     background-color: black;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white; 
 }
 
 h1 {
@@ -21,6 +22,7 @@ h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 300;
     font-size: 42px;
+    color: white; 
 }
 
 .travel p {
@@ -30,5 +32,5 @@ color: gray;
 
 footer {
     text-align: right;
-    color: gray
+    color: gray;
 }
